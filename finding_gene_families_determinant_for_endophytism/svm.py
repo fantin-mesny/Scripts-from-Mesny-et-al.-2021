@@ -1,15 +1,8 @@
 from sklearn import svm
-from sklearn import metrics
 from sklearn.feature_selection import RFE, RFECV, f_classif, SelectFdr
 from sklearn.pipeline import make_pipeline
-import numpy as np
 import pandas as pd
-import sys
-import subprocess
-from scipy import stats
-from statsmodels.stats.multitest import multipletests
 from sklearn.preprocessing import StandardScaler
-import matplotlib.pyplot as plt
 from sklearn.model_selection import cross_val_score, KFold
 
 import warnings
@@ -17,7 +10,7 @@ warnings.filterwarnings("ignore", category=RuntimeWarning)
 warnings.filterwarnings("ignore", category=UserWarning)
     
 ################################################### PARAMETERS ###################################################
-Dir='/biodata/dep_psl/grp_hacquard/Fantin/SVM_enrichedOGs/SVM-RFE/git/'
+Dir=''
 ogCount=Dir+'Orthogroups.GeneCount.csv'
 ls=Dir+'data.csv'
 #################################################### PARSING #####################################################

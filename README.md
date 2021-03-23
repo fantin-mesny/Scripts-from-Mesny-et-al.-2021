@@ -1,2 +1,1 @@
-# scriptsFromMesnyEtAl
-All scripts and analyses from project Mesny et al. 2021. 
+# Scripts from Mesny et al. 2021

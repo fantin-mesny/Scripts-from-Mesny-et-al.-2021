@@ -6,7 +6,7 @@ Below are linked the different scripts that were used in each paragraph of the s
 
 ## Cultured isolates are representative of wild *A. thaliana* root mycobiomes
 
-https://github.com/ththi/Mesny-et-al-2021
+- Re-analysing data from Thiergart *et al.* 2020 and assembling figure 1: https://github.com/ththi/Mesny-et-al-2021
 
 ## Root mycobiota members evolved from ancestors with diverse lifestyles
 
@@ -20,11 +20,12 @@ https://github.com/ththi/Mesny-et-al-2021
 
 ## Genomic traits of the endophytic lifestyle
 
-https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/finding_gene_families_determinant_for_endophytism
+- SVM-RFE mining genomes for orthogroups best segregating endophytes and mycobiota members from other fungi: https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/finding_gene_families_determinant_for_endophytism
 
 ## Root colonization capabilities explain fungal outcome on plant growth
 
-https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/plant_fungi_interaction_experiments
+- Analysis of shoot fresh weight data from plant recolonization experiments: https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/plant_fungi_interaction_experiments
+- Analysis of qPCR-measured fungal colonization: https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/analysis_of_qPCR_colonization_data
 
 ## A conserved set of CAZyme-encoding genes is induced *in planta* by diverse root mycobiota members
 
@@ -33,4 +34,4 @@ To be uploaded...
 ## Polysaccharide lyase family PL1_7 as a key component linking colonization aggressiveness to plant health
 
 - ANOVA multiple testing linking PPI to secreted CAZyme counts: https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/anova_testing_for_association_between_cazymes_and_ppi
-- SVM identifying orthogroups best segregating pathogens from others: https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/linking_effects_on_plants_to_genome_content
+- SVM-RFE identifying orthogroups best segregating pathogens from others: https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/linking_effects_on_plants_to_genome_content

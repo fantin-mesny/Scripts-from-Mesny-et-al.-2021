@@ -29,4 +29,5 @@ To be uploaded...
 
 ## Polysaccharide lyase family PL1_7 as a key component linking colonization aggressiveness to plant health
 
-https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/linking_effects_on_plants_to_genome_content
+- ANOVA multiple testing linking PPI to secreted CAZyme counts: https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/anova_testing_for_association_between_cazymes_and_ppi
+- SVM identifying orthogroups best segregating pathogens from others: https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/linking_effects_on_plants_to_genome_content

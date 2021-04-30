@@ -10,7 +10,8 @@ https://github.com/ththi/Mesny-et-al-2021
 
 ## Root mycobiota members evolved from ancestors with diverse lifestyles
 
-https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/predicting_ancestral_lifestyles
+- Results of OrthoFinder orthology prediction (orthogroups tables and species tree): https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/orthology_prediction_results
+- Ancestral lifestyles prediction: https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/predicting_ancestral_lifestyles
 
 ## Functional overlap in genomes of root mycobiota members and endophytes
 

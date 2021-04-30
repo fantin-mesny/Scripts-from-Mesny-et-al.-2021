@@ -1,0 +1,25 @@
+Well,Sample,Sample_ref,Treatment,Condition
+A1,1,3B1,F1,highP
+A2,2,3A2,F1,highP
+A3,3,6A2,F21,highP
+A4,4,17A2,F80,highP
+A5,5,8A2,F26,highP
+A6,6,E1A,F120,highP
+A7,7,19A2,F91,highP
+A8,8,15A2,F68,highP
+A9,9,4A2,F9,highP
+A10,10,5A2,F16,highP
+A11,11,HighP 100 p1,F100,highP
+A12,12,HighP 104 p2,F104,highP
+E1,13,J1A,F201,highP
+E2,14,9A2,F34,highP
+E3,15,16A2,F73,highP
+E4,16,11A2,F42,highP
+E5,17,O1A,F147,highP
+E6,18,12A2,F58,highP
+E7,19,20A2,F94,highP
+E8,20,14A2,F66,highP
+E9,21,13A2,F64,highP
+E10,22,L1A,F134,highP
+E11,23,7A2,F23,highP
+E12,24,18A2,F83,highP

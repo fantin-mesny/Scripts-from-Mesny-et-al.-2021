@@ -35,3 +35,4 @@ To be uploaded...
 
 - ANOVA multiple testing linking PPI to secreted CAZyme counts: https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/anova_testing_for_association_between_cazymes_and_ppi
 - SVM-RFE identifying orthogroups best segregating pathogens from others: https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/linking_effects_on_plants_to_genome_content
+- Plant recolonization experiments with *T. reseii* heterologous expression lines of PL1_7: https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/analysis_of_exp_with_knock_in_lines

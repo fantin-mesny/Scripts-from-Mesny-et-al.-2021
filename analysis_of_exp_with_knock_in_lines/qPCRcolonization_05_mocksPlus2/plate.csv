@@ -1,0 +1,25 @@
+Well,Sample,Sample_ref,Treatment,Replicate
+A1,1,TW1,T. reseii WT,R1
+A2,2,TR1_3,T. reseii R1,R3
+A3,3,TR1_3,T. reseii R1,R4
+A4,4,M1,Mock,R4
+A5,5,M1,Mock,R1
+A6,6,M2,Mock,R1
+A7,7,M3,Mock,R1
+A8,8,M1,Mock,R2
+A9,9,M2,Mock,R2
+A10,10,M3,Mock,R2
+A11,11,M4,Mock,R2
+A12,12,M1,Mock,R3
+E1,13,M2,Mock,R3
+E2,14,M3,Mock,R3
+E3,15,M4,Mock,R3
+E4,16,M2,Mock,R4
+E5,17,M3,Mock,R4
+E6,18,M4,Mock,R4
+E7,19,,,
+E8,20,,,
+E9,21,,,
+E10,22,,,
+E11,23,,,
+E12,24,,,

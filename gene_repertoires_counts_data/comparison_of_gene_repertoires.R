@@ -3,7 +3,7 @@ library(RVAideMemoire)
 
 for name in c('cazymes','fcwde','lipases','pcwde','proteases','ssp','total_proteins_(OGs)') {
 	cazy<-read.csv(paste(name,'.csv',sep=''), row.names='X')
-	data<-read.csv('data.csv', row.names='X')
+	data<-read.csv('phylogenetic_pca.csv', row.names='X')
 	cazyDist <- vegdist(cazy, method='jaccard')
 	cazDistMatrix <- as.data.frame(as.matrix(cazyDist))
 	perm <- adonis2(formula(paste('cazyDist~',names(data)[1],'+',names(data)[2],'+',names(data)[3],'+',names(data)[4],'+Lifestyle','+Lifestyle:',names(data)[1],'+Lifestyle:',names(data)[2],'+Lifestyle:',names(data)[3],'+Lifestyle:',names(data)[4],sep='')), data=data, permutations = 9999)

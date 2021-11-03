@@ -29,7 +29,7 @@ Below are linked the different scripts that were used in each paragraph of the s
 
 ## A conserved set of CAZyme-encoding genes is induced *in planta* by diverse root mycobiota members
 
-To be uploaded...
+- Analysis of the transcriptomes of fungi and *Arabidopsis thaliana*: https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/transcriptomics
 
 ## Polysaccharide lyase family PL1_7 as a key component linking colonization aggressiveness to plant health
 

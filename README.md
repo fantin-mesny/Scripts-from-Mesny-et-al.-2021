@@ -17,6 +17,7 @@ Below are linked the different scripts that were used in each paragraph of the s
 
 - Genome functional annotation with PRINGO: https://github.com/ShingoMiyauchi/PRINGO
 - PERMANOVA-based comparison of gene repertoires: https://github.com/fantin-mesny/Effect-Of-Biological-Categories-On-Genomes-Composition
+Statistical testing of this specific study can be found with count data here: https://github.com/fantin-mesny/Scripts-from-Mesny-et-al.-2021/tree/main/gene_repertoires_counts_data
 
 ## Genomic traits of the endophytic lifestyle
 

@@ -1,6 +1,9 @@
 # Scripts from ***Mesny *et al.*, 2021***
 
-**Preprint:** https://doi.org/10.1101/2021.04.28.441743
+Mesny, F., Miyauchi, S., Thiergart, T. et al. Genetic determinants of endophytism in the Arabidopsis root mycobiome. *Nat Commun* **12**, 7227 (2021).
+https://doi.org/10.1038/s41467-021-27479-y
+
+
 
 Below are linked the different scripts that were used in each paragraph of the study
 
